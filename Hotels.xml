@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+    <Hotel Rating="4.1">
+    <Name>The McCormick Scottsdale</Name>
+    <Phone>800-535-1865</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>7421</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>The McCormick Scottsdale</Name>
+    <Phone>800-535-1865</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>7421</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+  
+    <Hotel Rating="4.0">
+    <Name>The Clarendon Hotel and Spa</Name>
+    <Phone>602-252-7363</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>401</Number>
+      <Street>W Clarendon Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85013</Zip>
+    </Address>
+  </Hotel>
+  
+    <Hotel Rating="3.8">
+    <Name>Scottsdale Parkview Resort</Name>
+    <Phone>480-941-1202</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>7707</Number>
+      <Street>E McDowell Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85287</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.2">
+    <Name>Hyatt Place Tempe / Phoenix / University</Name>
+    <Phone>480-207-1578</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.5">
+    <Name>Red Roof PLUS+ Phoenix West</Name>
+    <Phone>602-325-9216</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>5215</Number>
+      <Street>W Willetta St </Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85043</Zip>
+    </Address>
+  </Hotel>
+  
+    <Hotel>
+    <Name>Red Roof PLUS+ Tempe - Phoenix Airport</Name>
+    <Phone>480-581-4940</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>2135</Number>
+      <Street>W 15th St </Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hotel Tempest, Trademark Collection by Wyndham</Name>
+    <Phone>480-774-2500</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>1375</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Holiday Inn Express and Suites Phoenix-Tempe, an IHG Hotel</Name>
+    <Phone>480-784-2233</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>670</Number>
+      <Street>N Scottsdale Rd </Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>AC Hotel Phoenix Tempe/Downtown</Name>
+    <Phone>480-642-6140</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotels>
